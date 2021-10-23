@@ -10,7 +10,7 @@ sections:
       ti.
   - section_id: about
     type: section_content
-    title: About
+    title: Sobre mí
     content: >
       Soy Camila Arancibia y mi meta es trabajar como desarrolladora web. Debido
       a que mi carrera no se especializa en este ámbito he aprendido de forma
