@@ -36,6 +36,7 @@ Hola, soy **Camila Arancibia**. Actualmente soy estudiante de Ingeniería Civil 
 
 Gracias a estas dos escuelas es que he podido centrarme en el Front-end, lo que me gusta hacer y en algún momento planeo trabajar de eso, y utilizar los múltiples conocimientos que he adquirido para poder transmitirlas en mi blog.
 
-## *Motivación*
+## Motivación
 
-*En estos momentos pensarás, ¿por qué un blog? Bueno, es bastante simple. Porque cuando estaba comenzando costaba encontrar información respecto a temas de la tecnología en español. Puede que ahora ya existan esos lugares, pero al menos quisiera aportar a los nuevos programadores que aún no comprenden el lenguaje técnico. Quiero ayudarlos a que entren al mundo de la tecnología.*
+En estos momentos pensarás, ¿por qué un blog? Bueno, es bastante simple. Porque cuando estaba comenzando costaba encontrar información respecto a temas de la tecnología en español. Puede que ahora ya existan esos lugares, pero al menos quisiera aportar a los nuevos programadores que aún no comprenden el lenguaje técnico. Quiero ayudarlos a que entren al mundo de la tecnología.
+
