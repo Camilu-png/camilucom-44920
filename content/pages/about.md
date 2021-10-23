@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: Además de mis proyectos conoce mi razón de ser.
-img_path: /images/bosque.jpg
+img_path: /images/Camilu.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: About Me
