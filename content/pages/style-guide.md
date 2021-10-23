@@ -33,14 +33,22 @@ seo:
       relativeUrl: true
 layout: page
 ---
-# Google Clone
-
-
+## Google Clone
 
 Este proyecto es un clon de Google con la finalidad de poner a prueba mis habilidades y conocimientos de Frontend, que está hecho gracias al Curso Práctico de HTML y CSS de Platzi.
 
+### Links
 
+*   Github
 
-# LearnSigmaF
+*   Google Clone
+
+## LearnSigmaF
 
 LearnSigmaF es una plataforma web donde se encuentran tutoriales y documentación de SigmaF, un lenguaje de programación open-source que se encuentra en desarrollo, que busca crear una comunidad de la cual soy partícipe.
+
+### Links
+
+*   GitHub
+
+*   LearnSigmaF
