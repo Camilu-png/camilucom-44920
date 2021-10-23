@@ -7,7 +7,7 @@ excerpt: >-
   cambia cuando se trata de cumplir para ti, es decir, tú mismo te pones tus
   metas y eres tú mismo el que no las cumple. Pero... ¿Por qué?
 date: '2021-07-04'
-thumb_img_path: images/7.jpg
+thumb_img_path: /images/banner.png
 thumb_img_alt: Icelandic horses
 content_img_path: /images/banner.png
 content_img_alt: Icelandic horses
