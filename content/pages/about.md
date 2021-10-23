@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: Aquí encontrarás información sobre mí.
+subtitle: Además de mis proyectos conoce mi razón de ser.
 img_path: images/about.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
