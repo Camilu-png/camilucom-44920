@@ -8,7 +8,7 @@
         "tagline": "Front-end Developer",
         "profile_img": "/images/Camilu.jpg",
         "profile_img_alt": "Author avatar",
-        "background": "dark",
+        "background": "light",
         "has_nav": true,
         "nav_links": [
             {
