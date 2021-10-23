@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: 'Hola, soy Camilú'
     content: >
-      Soy una estudiante de informática aspirante a Frontend que teje amigurumis
-      y le gusta la organización digital y física.
+      Recuerda aprender para crecer, nunca olvides que lo que haces lo haces por
+      ti.
   - section_id: about
     type: section_content
     title: About
