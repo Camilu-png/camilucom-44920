@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Stackbit Fresh.'
+    title: 'Hola, soy Camilú'
     content: >
       Soy una estudiante de informática aspirante a Frontend que teje amigurumis
       y le gusta la organización digital y física.
