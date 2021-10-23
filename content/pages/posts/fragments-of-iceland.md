@@ -63,8 +63,6 @@ La respuesta es poco intuitiva, pero no necesitas hacer todas tus actividades pe
 
 *   E, Punto de eficacia. Realizas tus tareas con calidad sin agotarte y cuidando tu salud mental![](https://media-exp1.licdn.com/dms/image/C4D12AQGspxdnzFMSKA/article-inline_image-shrink\_1500\_2232/0/1625019951732?e=1640217600\&v=beta\&t=iGeS8MBWYLEqG6SY5IcOX385eOO-jeZkjfc_VFbHtpE)
 
-
-
 Creo que con estos puntos ya eres capaz de comprender lo que intento explicarte, pero si no te pido encarecidamente que veas este video de [Tiktok](https://www.tiktok.com/@consejosparamihijo/video/6957513482900229381?lang=es\&is_copy_url=0\&is_from_webapp=v1\&sender_device=pc\&sender_web_id=6934752977170056709).
 
 ## Técnicas para gestionar tu tiempo
@@ -77,7 +75,7 @@ Es necesario que sepas diferenciar tus tareas diarias como importantes y urgente
 
 *   Urgente, requiere atención inmediata, desplaza nuestra atención y tiene fecha de entrega
 
-*   Importante, producen resultados tangibles, están alineadas a una meta o estrategia común y los efectos de no realizarlas son más graves
+*   Importante, producen resultados tangibles, están alineadas a una meta o estrategia común y los efectos de no realizarlas son más graves![](https://media-exp1.licdn.com/dms/image/C4D12AQGdVkNwWlFxyw/article-inline_image-shrink\_1500\_2232/0/1625014464004?e=1640217600\&v=beta\&t=m7q5ZkXRfjvFrZ_eKRC9190g2pIRZAMoPd7PcBJUyGU)
 
 Esta matriz se subdivide en 4 colores. Esto te puede servir de ayuda cuando no sepas por cuál tarea empezar primero. Las que estén dentro del rectángulo azul son las primeras tareas que debes hacer en el día, esto es para poder terminarlas rápido y lograr salir de la urgencia.
 
@@ -103,7 +101,7 @@ Y por último, intenta no perder el tiempo. Las redes sociales te consumen mucho
 
 Debes de ser consciente de cuánto tiempo utilizas para recrearte. Puedes hacer lo que quieras; jugar videojuegos, leer, hacer deporte, ver las redes sociales o hacer contenido para ellas. No importa lo que hagas, pero debes de ser saber de que recrearte quita tiempo, pero es algo sano. El problema es cuando te recreas por mucho tiempo y no cumples tus labores.
 
- Un día dura 24 horas. Digamos que eres un adulto que duerme 7 horas al día, te demoras 1 hora en alistarte (bañarte, desayunar, hacer tu cama, etc.). Media hora en almorzar y para cenar, si es que tienes la suerte de que alguien cocine por ti. En total te quedan 15 horas para realizar actividades como recreación, tareas y responsabilidades, sin contar las pausas para ir al baño. 
+ Un día dura 24 horas. Digamos que eres un adulto que duerme 7 horas al día, te demoras 1 hora en alistarte (bañarte, desayunar, hacer tu cama, etc.). Media hora en almorzar y para cenar, si es que tienes la suerte de que alguien cocine por ti. En total te quedan 15 horas para realizar actividades como recreación, tareas y responsabilidades, sin contar las pausas para ir al baño.
 
 Ahora digamos que eres un adulto que trabaja, utilizas 8 horas de tu vida en la oficina y el trayecto de la oficina a tu casa es de 1 hora. Ahora solo te quedan 5 horas para realizar tus tareas y si es que te llega a quedar tiempo, para recrearte. Como ves el tiempo es poco, debes ser consciente de esto cuando te plantees realizar tus pendientes, haz el mismo ejercicio que realicé aquí. Cuando tengas que realizar algo la próxima semana, sabrás que no tienes 7 días para realizarlo, sino que 35 horas, menos de dos días.
 
@@ -123,7 +121,7 @@ Y por último, **actúa**. Organizarte no sirve de nada si no te das el tiempo d
 
 ## Herramientas digitales que te ayudarán
 
-Por ahora son solo 3 herramientas que te puedo recomendar. Estas 3 las he utilizado y te puedo asegurar que al menos a mí me funcionaron, espero que a ti te ayuden. Además solo utilizo aplicaciones gratis, así que no tengas miedo de provarlas. 
+Por ahora son solo 3 herramientas que te puedo recomendar. Estas 3 las he utilizado y te puedo asegurar que al menos a mí me funcionaron, espero que a ti te ayuden. Además solo utilizo aplicaciones gratis, así que no tengas miedo de provarlas.
 
 *   [Todoist](https://todoist.com/es), esta aplicación y plataforma te ayudará a organizar y categorizar tus listas To do
 
@@ -145,6 +143,6 @@ Por ahora son solo 3 herramientas que te puedo recomendar. Estas 3 las he utiliz
 
 Antes de ir a un lugar o comprometerte a algo recuerda que no debes decir que sí a todo, debes de conocer las cosas que puedes hacer y cuáles no. Así que pregúntate, ¿es necesario ir? Si de verdad necesitas ir, ¿existe alguna opción cercana? Cuando ya te hayas preguntado todo esto es momento que pienses en los trayectos que tengas que hacer, ya sea en transporte público, en tu propio vehículo o caminando.
 
-Es importante que hagas todo esto, puede parecer un poco exagerado pero realmente sirve. Yo ya lo he hecho y probablemente cuando termine la pandemia tenga que volver a medir mis tiempos porque mi condición física y mi ritmo al caminar han cambiado. 
+Es importante que hagas todo esto, puede parecer un poco exagerado pero realmente sirve. Yo ya lo he hecho y probablemente cuando termine la pandemia tenga que volver a medir mis tiempos porque mi condición física y mi ritmo al caminar han cambiado.
 
-Si quieres más información sobre lo que escribí en este artículo puedes encontrarlo en el curso de [Platzi](https://platzi.com/), [Curso de Gestión Efectiva del Tiempo](https://platzi.com/clases/gestion-tiempo/). Y si tienes más tips sobre cómo gestionar en tiempos de Pandemia, no dudes en escribirlo aquí abajo. Así nos ayudamos entre todos.![](https://media-exp1.licdn.com/dms/image/C4D12AQGspxdnzFMSKA/article-inline_image-shrink\_1500\_2232/0/1625019951732?e=1640217600\&v=beta\&t=iGeS8MBWYLEqG6SY5IcOX385eOO-jeZkjfc_VFbHtpE)
+Si quieres más información sobre lo que escribí en este artículo puedes encontrarlo en el curso de [Platzi](https://platzi.com/), [Curso de Gestión Efectiva del Tiempo](https://platzi.com/clases/gestion-tiempo/). Y si tienes más tips sobre cómo gestionar en tiempos de Pandemia, no dudes en escribirlo aquí abajo. Así nos ayudamos entre todos.
