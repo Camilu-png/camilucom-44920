@@ -11,11 +11,15 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      Soy Camila Arancibia y mi meta es trabajar como desarrolladora web. Debido
+      a que mi carrera no se especializa en este ámbito he aprendido de forma
+      autodidacta en plataformas como Platzi y Coursera, además de esto también
+      he decidido complementar mis estudios con cursos de desarrollo de
+      habilidades blandas, organización y redacción.
+
+      Además del desarrollo web, poseo una pasión por la escritura, lectura,
+      tejido de amigurumis y la jardinería.
     actions:
       - label: Contact Me
         url: /contact
