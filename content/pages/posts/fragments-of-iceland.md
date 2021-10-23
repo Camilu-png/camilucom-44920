@@ -1,9 +1,11 @@
 ---
 title: Gestionar en tiempos de Pandemia
 excerpt: >-
-  Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
-  It has a population of 325,671 and an area of 103,000 km2 (40,000 sq mi),
-  making it the most sparsely populated country in Europe.
+  En estos tiempos de teletrabajo seguramente te has tenido que enfrentar a un
+  gran problema, la autodisciplina. Y es que cuando se trata de cumplir horarios
+  y fechas para alguien más, cumples; tal vez de mala gana, pero cumples. Esto
+  cambia cuando se trata de cumplir para ti, es decir, tú mismo te pones tus
+  metas y eres tú mismo el que no las cumple. Pero... ¿Por qué?
 date: '2021-07-04'
 thumb_img_path: images/7.jpg
 thumb_img_alt: Icelandic horses
