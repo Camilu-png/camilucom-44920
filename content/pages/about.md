@@ -31,13 +31,14 @@ seo:
       relativeUrl: true
 layout: page
 ---
+## Estudios
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+Hola, soy **Camila Arancibia**. Actualmente soy estudiante de Ingeniería Civil Informática en la universidad Técnica Federico Santa María en Valparaíso, Chile.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+Mi carrera se centra más en el desarrollo de software, es debido a esto que también estudio en Platzi, una plataforma para estudiar online de forma efectiva. 
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+Gracias a estas dos escuelas es que he podido centrarme en el Front-end, lo que me gusta hacer y en algún momento planeo trabajar de eso, y utilizar los múltiples conocimientos que he adquirido para poder transmitirlas en mi blog.
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+## *Motivación*
 
-*Thank You for reading!*
+*En estos momentos pensarás, ¿por qué un blog? Bueno, es bastante simple. Porque cuando estaba*
