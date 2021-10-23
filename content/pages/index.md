@@ -8,9 +8,6 @@ sections:
     content: >
       Soy una estudiante de informática aspirante a Frontend que teje amigurumis
       y le gusta la organización digital y física.
-
-      Aquí encontrarás mis proyectos personales, artículos de organización e
-      información interesante de mi carrera
   - section_id: about
     type: section_content
     title: About
