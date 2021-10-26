@@ -8,12 +8,12 @@ excerpt: >-
   metas y eres tú mismo el que no las cumple. Pero... ¿Por qué?
 date: '2021-07-04'
 thumb_img_path: /images/banner.png
-thumb_img_alt: Icelandic horses
+thumb_img_alt: Gestionar
 content_img_path: /images/banner.png
-content_img_alt: Icelandic horses
+content_img_alt: Gestionar
 seo:
-  title: Fragments of Iceland
-  description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
+  title: Gestionar en tiempos de Pandemia
+  description: Aprende a gestionarte a ti mismo en la nueva normalidad.
   extra:
     - name: 'og:type'
       value: article
