@@ -3,9 +3,9 @@ title: Google Clone
 excerpt: >-
   Este proyecto es un clon de Google con la finalidad de poner a prueba mis habilidades y conocimientos de Frontend, que está hecho gracias al Curso Práctico de HTML y CSS de Platzi.
 date: '2021-05-22'
-thumb_img_path: /images/banner.png
+thumb_img_path: https://i.imgur.com/GA2RvHs.png
 thumb_img_alt: Google Clone
-content_img_path: /images/banner.png
+content_img_path: https://i.imgur.com/GA2RvHs.png
 content_img_alt: Google Clone
 seo:
   title: Fragments of Iceland
@@ -46,7 +46,7 @@ Este proyecto es un clon de Google con la finalidad de poner a prueba mis habili
 
 ### Links
 
-*   Github
+*   [Github](https://github.com/Camilu-png/Google-Clone)
 
-*   Google Clone
+*   [Google Clone](https://camilu-png.github.io/Google-Clone/)
 
