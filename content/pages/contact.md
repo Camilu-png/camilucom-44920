@@ -1,60 +1,36 @@
 ---
-title: Contact
-hide_title: false
-sections:
-  - section_id: contact-form
-    type: section_form
-    content: |
-      Para contactarme, por favor completa el siguiente formulario.
-    form_id: contactForm
-    form_action: /thank-you
-    form_fields:
-      - input_type: text
-        name: name
-        label: Nombre
-        default_value: Your name
-        is_required: true
-      - input_type: email
-        name: email
-        label: Email
-        default_value: Your email address
-        is_required: true
-      - input_type: select
-        name: subject
-        label: Asunto
-        default_value: Please select
-        options:
-          - Error on the site
-          - Sponsorship
-          - Other
-      - input_type: textarea
-        name: message
-        label: Mensaje
-        default_value: Your message
-      - input_type: checkbox
-        name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
-    submit_label: Enviar
+title: Contáctame
+subtitle: Contáctame por correo electrónico.
+img_alt: Portrait of a man with beard and mustache
 seo:
-  title: Contact
-  description: This is the contact page
+  title: Contáctame
+  description: This is the Contact page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Contáctame
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: This is the Contact page
       keyName: property
+    - name: 'og:image'
+      value: images/about.jpg
+      keyName: property
+      relativeUrl: true
     - name: 'twitter:card'
-      value: summary
+      value: summary_large_image
     - name: 'twitter:title'
-      value: Contact
+      value: Contáctame
     - name: 'twitter:description'
-      value: This is the contact page
-layout: advanced
+      value: This is the Contáctame page
+    - name: 'twitter:image'
+      value: images/about.jpg
+      relativeUrl: true
+layout: page
 ---
+
+Aunque tengo redes sociales, las cuales puedes ver a la izquierda de la página, si lo prefieres puedes enviarme un email a la siguiente dirección.
+
+* Correo electrónico: camilachillan99@gmail.com

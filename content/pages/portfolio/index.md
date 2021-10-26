@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 seo:
-  title: Portfolio
+  title: Portafolio
   description: This is the portfolio page
   extra:
     - name: 'og:type'

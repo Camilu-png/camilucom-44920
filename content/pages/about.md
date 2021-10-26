@@ -1,10 +1,10 @@
 ---
-title: About Me
+title: Sobre mí
 subtitle: Además de mis proyectos conoce mi razón de ser.
 img_alt: Portrait of a man with beard and mustache
 seo:
-  title: About Me
-  description: This is the about me page
+  title: Sobre mí
+  description: Conoce mis estudios y la razón de este blog
   extra:
     - name: 'og:type'
       value: website
@@ -13,7 +13,7 @@ seo:
       value: About Me
       keyName: property
     - name: 'og:description'
-      value: This is the about me page
+      value: Conoce mis estudios y la razón de este blog
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:title'
       value: About Me
     - name: 'twitter:description'
-      value: This is the about me page
+      value: Conoce mis estudios y la razón de este blog
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true
@@ -35,6 +35,8 @@ layout: page
 Hola, soy **Camila Arancibia**. Actualmente soy estudiante de Ingeniería Civil Informática en la universidad Técnica Federico Santa María en Valparaíso, Chile. Mi carrera se centra más en el desarrollo de software, es debido a esto que también estudio en Platzi, una plataforma para estudiar online de forma efectiva.
 
 Gracias a estas dos escuelas es que he podido centrarme en el Front-end, lo que me gusta hacer y en algún momento planeo trabajar de eso, y utilizar los múltiples conocimientos que he adquirido para poder transmitirlas en mi blog.
+
+Si quieres comprobar los cursos que he realizado en Platzi no dudes en ingresar a [mi perfil](https://platzi.com/p/camilu_png/)
 
 ## Motivación
 
