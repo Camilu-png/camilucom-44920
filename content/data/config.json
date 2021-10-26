@@ -27,12 +27,12 @@
                 "style": "link"
             },
             {
-                "label": "About",
+                "label": "Sobre mí",
                 "url": "/about/",
                 "style": "link"
             },
             {
-                "label": "Contact",
+                "label": "Contacto",
                 "url": "/contact/",
                 "style": "link"
             }
