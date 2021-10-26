@@ -1,15 +1,16 @@
 ---
-title: Google Clone
+title: Learn SigmaF
 excerpt: >-
   Este proyecto es un clon de Google con la finalidad de poner a prueba mis habilidades y conocimientos de Frontend, que está hecho gracias al Curso Práctico de HTML y CSS de Platzi.
-date: '2021-05-22'
-thumb_img_path: /images/banner.png
-thumb_img_alt: Google Clone
-content_img_path: /images/banner.png
-content_img_alt: Google Clone
+date: '2021-09-17'
+thumb_img_path: https://i.imgur.com/eYlClr9.png
+thumb_img_alt: Learn SigmaF
+content_img_path: https://i.imgur.com/eYlClr9.png
+content_img_alt: Learn SigmaF
 seo:
-  title: Fragments of Iceland
-  description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
+  title: Learn SigmaF
+  description: Here you will find the documentation of SigmaF, first steps, and its community.
+
   extra:
     - name: 'og:type'
       value: article
@@ -19,8 +20,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Iceland is a Nordic country between the North Atlantic and the Arctic
-        Ocean.
+        Here you will find the documentation of SigmaF, first steps, and its community.
       keyName: property
     - name: 'og:image'
       value: images/7.jpg
@@ -32,8 +32,7 @@ seo:
       value: Fragments of Iceland
     - name: 'twitter:description'
       value: >-
-        Iceland is a Nordic country between the North Atlantic and the Arctic
-        Ocean.
+        Here you will find the documentation of SigmaF, first steps, and its community.
     - name: 'twitter:image'
       value: images/7.jpg
       relativeUrl: true
@@ -46,6 +45,6 @@ LearnSigmaF es una plataforma web donde se encuentran tutoriales y documentació
 
 ### Links
 
-*   GitHub
+*   [Github](https://github.com/Camilu-png/LearnSigmaF)
 
-*   LearnSigmaF
+*   [LearnSigmaF](https://camilu-png.github.io/LearnSigmaF/)
