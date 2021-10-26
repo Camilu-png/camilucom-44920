@@ -1,0 +1,38 @@
+/**
+ * Proyect Navigation
+ */
+ .pagination {
+    padding-bottom: 1.66667em;
+    position: relative;
+    text-align: center;
+  }
+  
+  .page-number {
+    color: _palette(meta);
+    display: inline-block;
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 1.5;
+    padding: 0.75em 60px;
+    text-transform: uppercase;
+  }
+  
+  .newer-proyects,
+  .older-proyects {
+    position: absolute;
+    top: 0;
+  }
+  
+  .older-proyects {
+    left: 0;
+  }
+  
+  .newer-proyects {
+    right: 0;
+  }
+  
+  .proyect-full + .block-read-next {
+    margin-bottom: 3.33333em;
+    margin-top: 5em;
+  }
+  

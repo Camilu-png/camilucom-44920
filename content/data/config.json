@@ -1,5 +1,5 @@
 {
-    "title": "Stackbit Fresh Theme",
+    "title": "Camilu_png",
     "path_prefix": "/",
     "layout_style": "overflow",
     "palette": "orange",
@@ -22,8 +22,8 @@
                 "style": "link"
             },
             {
-                "label": "Proyectos",
-                "url": "/style-guide/",
+                "label": "Portafolio",
+                "url": "/portfolio/",
                 "style": "link"
             },
             {

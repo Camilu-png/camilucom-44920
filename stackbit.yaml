@@ -145,7 +145,7 @@ models:
         label: Favicon
         description: A square icon that represents your website.
       - type: enum
-        name: layout_style
+        name: portfolio
         label: Layout Style
         description: The style of the theme layout.
         options:
@@ -301,6 +301,24 @@ models:
         name: seo
         models:
           - stackbit_page_meta
+  portfolio:
+    type: page
+    urlPath: /portfolio
+    label: Portfolio
+    layout: portfolio
+    file: portfolio/index.md
+    hideContent: true
+    singleInstance: true
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the page.
+        required: true
+      - type: model
+        name: seo
+        models:
+          - stackbit_page_meta
   page:
     type: page
     label: Page
@@ -324,6 +342,50 @@ models:
         name: img_alt
         label: Image Alt Text
         description: The alt text of the image.
+      - type: model
+        name: seo
+        models:
+          - stackbit_page_meta
+  proyect:
+    type: page
+    urlPath: '/proyects/{slug}'
+    label: Proyect
+    layout: proyect
+    folder: proyects
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the proyect.
+        required: true
+      - type: string
+        name: subtitle
+        label: Subtitle
+        description: The text shown just below the proyect title.
+      - type: date
+        name: date
+        label: Date
+        required: true
+      - type: image
+        name: thumb_img_path
+        label: Image (portfolio feed)
+        description: The image shown in the portfolio feed.
+      - type: string
+        name: thumb_img_alt
+        label: Image alt text (portfolio feed)
+        description: The alt text of the portfolio feed image.
+      - type: image
+        name: content_img_path
+        label: Image (single proyect)
+        description: The image shown in the single proyect.
+      - type: string
+        name: content_img_alt
+        label: Image alt text (single proyect)
+        description: The alt text of the single proyect image.
+      - type: string
+        name: excerpt
+        label: Excerpt
+        description: The excerpt of the proyect displayed in the portfolio feed.
       - type: model
         name: seo
         models:
