@@ -21,7 +21,7 @@ sections:
       Además del desarrollo web, poseo una pasión por la escritura, lectura,
       tejido de amigurumis y la jardinería.
     actions:
-      - label: Contactame
+      - label: Contáctame
         url: /contact
         style: button
   - section_id: recent-posts
