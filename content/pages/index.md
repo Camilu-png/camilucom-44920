@@ -45,10 +45,10 @@ seo:
     - name: 'og:description'
       value: Portafolio y blog de Camila Arancibia
       keyName: property
-    # - name: 'og:image'
-    #   value: images/4.jpg
-    #   keyName: property
-    #   relativeUrl: true
+    - name: 'og:image'
+      value: images/page.png
+      keyName: property
+      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
@@ -56,7 +56,7 @@ seo:
     - name: 'twitter:description'
       value: Portafolio y blog de Camila Arancibia
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: images/page.png
       relativeUrl: true
 layout: advanced
 ---

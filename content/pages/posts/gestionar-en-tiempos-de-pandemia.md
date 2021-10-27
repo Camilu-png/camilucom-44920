@@ -23,23 +23,21 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Iceland is a Nordic country between the North Atlantic and the Arctic
-        Ocean.
+        Aprende a gestionarte a ti mismo en la nueva normalidad.
       keyName: property
     - name: 'og:image'
-      value: images/7.jpg
+      value: /images/banner.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Fragments of Iceland
+      value: Gestionar en tiempos de pandemia
     - name: 'twitter:description'
       value: >-
-        Iceland is a Nordic country between the North Atlantic and the Arctic
-        Ocean.
+        Aprende a gestionarte a ti mismo en la nueva normalidad.
     - name: 'twitter:image'
-      value: images/7.jpg
+      value: /images/banner.png
       relativeUrl: true
 layout: post
 ---

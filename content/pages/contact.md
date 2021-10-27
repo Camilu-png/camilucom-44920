@@ -3,30 +3,30 @@ title: Contáctame
 subtitle: Contáctame por correo electrónico.
 img_alt: Portrait of a man with beard and mustache
 seo:
-  title: Contáctame
-  description: This is the Contact page
+  title: Contáctate con Camila Arancibia Faúndez
+  description: Encuentra el contacto para poder comunicarte conmigo.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contáctame
+      value: Contáctate con Camila Arancibia Faúndez
       keyName: property
     - name: 'og:description'
-      value: This is the Contact page
+      value: Encuentra el contacto para poder comunicarte conmigo.
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: https://cdn.pixabay.com/photo/2015/01/25/21/02/phone-612061_960_720.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Contáctame
+      value: Contáctate con Camila Arancibia Faúndez
     - name: 'twitter:description'
-      value: This is the Contáctame page
+      value: Encuentra el contacto para poder comunicarte conmigo.
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: https://cdn.pixabay.com/photo/2015/01/25/21/02/phone-612061_960_720.jpg
       relativeUrl: true
 layout: page
 ---

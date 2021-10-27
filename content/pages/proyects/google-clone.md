@@ -8,34 +8,32 @@ thumb_img_alt: Google Clone
 content_img_path: https://i.imgur.com/GA2RvHs.png
 content_img_alt: Google Clone
 seo:
-  title: Fragments of Iceland
-  description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
+  title: Proyecto Google Clone
+  description: Está realizado con HTML y CSS, puedes probarlo haciendo click aquí.
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Fragments of Iceland
+      value: Proyecto Google Clone
       keyName: property
     - name: 'og:description'
       value: >-
-        Iceland is a Nordic country between the North Atlantic and the Arctic
-        Ocean.
+        Está realizado con HTML y CSS, puedes probarlo haciendo click aquí.
       keyName: property
     - name: 'og:image'
-      value: images/7.jpg
+      value: https://i.imgur.com/GA2RvHs.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Fragments of Iceland
+      value: Proyecto Google Clone
     - name: 'twitter:description'
       value: >-
-        Iceland is a Nordic country between the North Atlantic and the Arctic
-        Ocean.
+        Está realizado con HTML y CSS, puedes probarlo haciendo click aquí.
     - name: 'twitter:image'
-      value: images/7.jpg
+      value: https://i.imgur.com/GA2RvHs.png
       relativeUrl: true
 layout: proyect
 ---
