@@ -16,25 +16,25 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Fragments of Iceland
+      value: Learn SigmaF
       keyName: property
     - name: 'og:description'
       value: >-
         Here you will find the documentation of SigmaF, first steps, and its community.
       keyName: property
     - name: 'og:image'
-      value: images/7.jpg
+      value: https://i.imgur.com/eYlClr9.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Fragments of Iceland
+      value: Learn SigmaF
     - name: 'twitter:description'
       value: >-
         Here you will find the documentation of SigmaF, first steps, and its community.
     - name: 'twitter:image'
-      value: images/7.jpg
+      value: https://i.imgur.com/eYlClr9.png
       relativeUrl: true
 layout: proyect
 ---

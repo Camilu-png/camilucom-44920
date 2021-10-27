@@ -1,32 +1,33 @@
 ---
 title: Sobre mí
 subtitle: Además de mis proyectos conoce mi razón de ser.
-img_alt: Portrait of a man with beard and mustache
+image: https://i.imgur.com/kIThN4E.png
+image_alt: Mi avatar guiñando el ojoS
 seo:
-  title: Sobre mí
-  description: Conoce mis estudios y la razón de este blog
+  title: Acerca de Camila Arancibia Faúndez
+  description: Estudiante de Ingeniería Civil Informática - Desarrolladora Frontend
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Me
+      value: Conoce a Camila Arancibia Faúndez
       keyName: property
     - name: 'og:description'
-      value: Conoce mis estudios y la razón de este blog
+      value: Estudiante de Ingeniería Civil Informática - Desarrolladora Frontend
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: https://i.imgur.com/kIThN4E.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Me
+      value: Conoce a Camila Arancibia Faúndez
     - name: 'twitter:description'
-      value: Conoce mis estudios y la razón de este blog
+      value: Estudiante de Ingeniería Civil Informática - Desarrolladora Frontend
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: https://i.imgur.com/kIThN4E.png
       relativeUrl: true
 layout: page
 ---
