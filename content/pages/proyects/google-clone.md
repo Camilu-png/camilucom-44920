@@ -48,3 +48,7 @@ Este proyecto es un clon de Google con la finalidad de poner a prueba mis habili
 
 *   [Google Clone](https://camilu-png.github.io/Google-Clone/)
 
+
+
+  ![](https://via.placeholder.com/60x30/fa8258/fff?text=HTML)
+  ![](https://via.placeholder.com/60x30/01a9db/fff?text=CSS) 
