@@ -30,7 +30,7 @@ sections:
     posts_number: 4
     actions:
       - label: Blog
-        url: blog/index.html
+        url: blog/
         style: button
 seo:
   title: Camila Arancibia Faúndez
