@@ -46,5 +46,6 @@ LearnSigmaF es una plataforma web donde se encuentran tutoriales y documentació
 ### Links
 
 *   [Github](https://github.com/Camilu-png/LearnSigmaF)
-
 *   [LearnSigmaF](https://camilu-png.github.io/LearnSigmaF/)
+
+  ![HTML](https://img.shields.io/badge/HTML-orange?style=plastic) ![CSS](https://img.shields.io/badge/CSS-blue?style=plastic) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=plastic)
