@@ -1,7 +1,7 @@
 ---
 title: Blog
 seo:
-  title: Blog de Camila Arancibia Faúndez
+  title: Blog
   description: Bienvenido a mi Blog personal, echa un vistazo a mis artículos y tal vez encuentres algo que te cambie la vida.
   extra:
     - name: 'og:type'

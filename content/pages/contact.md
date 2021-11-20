@@ -3,7 +3,7 @@ title: Contáctame
 subtitle: Contáctame por correo electrónico.
 img_alt: Portrait of a man with beard and mustache
 seo:
-  title: Contáctate con Camila Arancibia Faúndez
+  title: Contáctame
   description: Encuentra el contacto para poder comunicarte conmigo.
   extra:
     - name: 'og:type'
