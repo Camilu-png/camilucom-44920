@@ -4,7 +4,7 @@ subtitle: Además de mis proyectos conoce mi razón de ser.
 image: https://i.imgur.com/kIThN4E.png
 image_alt: Mi avatar guiñando el ojoS
 seo:
-  title: Acerca de Camila Arancibia Faúndez
+  title: Conóceme
   description: Estudiante de Ingeniería Civil Informática - Desarrolladora Frontend
   extra:
     - name: 'og:type'
