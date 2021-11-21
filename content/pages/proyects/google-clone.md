@@ -96,7 +96,7 @@ nav .nav-right-section img{
     border-radius: 50%;
 }
 ~~~
-Sé que puede parecer muy complicado el código por ahora, pero lo que se utilizo en el `header`fue para que tuviera el tamaño del ancho de la página y que su altura no superara los 60px. Además en el `nav` se utilizó `flex` y `flex-end`. Esto para que lo que estuviera al interior del `nav` estuviera a la derecha.
+Sé que puede parecer muy complicado el código por ahora, pero lo que se utilizó en el `header` fue para que tuviera el tamaño del ancho de la página y que su altura no superara los 60px. Además en el `nav` se utilizó `flex` y `flex-end`. Esto para que lo que estuviera al interior del `nav` estuviera a la derecha.
 
 Para la clase `nav-right-section` se le quitaron los estilos a las listas, esto para evitar que aparecieran los puntos, se le agregó un pequeño margen a la derecha y al igual que el `header`, se utilizó `flex-end` para que los items se movieran a la derecha. Para los `a` de la clase `nav-right-section` se les agregó un margen a la derecha para que estuvieran separados unos de otros y también se les cambió el color de las letras.
 
@@ -184,7 +184,7 @@ main .main-input input{
 
 Para agregar las imagenes del buscador de hace de formas parecidas, en ambas clases `search-icon` y `micro-icon` se utiliza `background-image` para agregar la imágen que van a contener de fondo, `background-repeat` se utiliza para repetir o no la imagen y se le agrega `no-repeat` para que no lo repita. 
 
-Se utiliza `background-position` para elegir en qué posición se quiere que esté la imagen de fondo, en este caso en el centro. Y por último `background-size` que pregunta de qué tamaño debe ser la imagen de fondo,  en mi caso elegí que el tamaño de quién lo contiene. Por ahora solo falta elegir el tamaño del contenedor, como son imagenes cuadradas fueron de 17px y 24px respectivamente para cada imagen.
+Se utiliza `background-position` para elegir en qué posición se quiere que esté la imagen de fondo, en este caso en el centro. Y por último `background-size` que pregunta de qué tamaño debe ser la imagen de fondo, en mi caso elegí que el tamaño de quién lo contiene. Por ahora solo falta elegir el tamaño del contenedor, como son imágenes cuadradas fueron de 17px y 24px respectivamente para cada imagen.
 
 A `micro-icon` se le agregó `cursor: pointer`, esto se utiliza para que se vea el cursor cuando se pasa el mouse. En mi caso se debe ver una mano blanca y pequeña, depende de la configuración de tu computador se puede ver de otra forma.
 
