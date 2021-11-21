@@ -92,6 +92,9 @@ pre {
   font-family: _font(monospace);
   font-size: 0.88889rem;
 }
+code{
+  color: _palette(accent-code);
+}
 
 pre {
   background-color: _palette(bg);

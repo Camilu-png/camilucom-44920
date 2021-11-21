@@ -96,3 +96,6 @@ out
 .sourcebit-nextjs-cache.json
 .DS_Store
 .idea
+
+#Post beta
+content/pages/posts/construir-software.md
