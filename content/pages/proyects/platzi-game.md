@@ -23,7 +23,7 @@ seo:
         Este proyecto está hecho gracias al curso de Preprocesadores de Platzi
       keyName: property
     - name: 'og:image'
-      value: https://i.imgur.com/sQtudkS.png
+      value: public/images/pug.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -34,7 +34,7 @@ seo:
       value: >-
         Este proyecto está hecho gracias al curso de Preprocesadores de Platzi
     - name: 'twitter:image'
-      value: https://i.imgur.com/sQtudkS.png
+      value: public/images/pug.png
       relativeUrl: true
 layout: proyect
 ---
