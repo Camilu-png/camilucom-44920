@@ -1,7 +1,7 @@
 ---
 title: Learn SigmaF
 excerpt: >-
-  Este proyecto es un clon de Google con la finalidad de poner a prueba mis habilidades y conocimientos de Frontend, que está hecho gracias al Curso Práctico de HTML y CSS de Platzi.
+  LearnSigmaF es una plataforma web donde se encuentran tutoriales y documentación de SigmaF, un lenguaje de programación open-source que se encuentra en desarrollo, que busca crear una comunidad de la cual soy partícipe.
 date: '2021-09-17'
 thumb_img_path: https://i.imgur.com/eYlClr9.png
 thumb_img_alt: Learn SigmaF

@@ -1,7 +1,7 @@
 ---
 title: Platzi Game
 excerpt: >-
-  Este proyecto está hecho gracias al curso de Preprocesadores de Platzi
+  Este proyecto es parte de una colección que estoy realizando para demostrar mis conocimientos en preprocesadores, en este caso el sitio web fue creado utilizando el preprocesador Pug.
 date: '2021-11-18'
 thumb_img_path: https://i.imgur.com/sQtudkS.png
 thumb_img_alt: Platzi Game
@@ -9,7 +9,7 @@ content_img_path: https://i.imgur.com/sQtudkS.png
 content_img_alt: Platzi Game
 seo:
   title: Platzi Game
-  description: Este proyecto está hecho gracias al curso de Preprocesadores de Platzi
+  description: Este proyecto es parte de una colección que estoy realizando para demostrar mis conocimientos en preprocesadores, en este caso el sitio web fue creado utilizando el preprocesador Pug.
 
   extra:
     - name: 'og:type'
@@ -20,7 +20,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Este proyecto está hecho gracias al curso de Preprocesadores de Platzi
+        Este proyecto es parte de una colección que estoy realizando para demostrar mis conocimientos en preprocesadores, en este caso el sitio web fue creado utilizando el preprocesador Pug.
       keyName: property
     - name: 'og:image'
       value: public/images/pug.png
@@ -32,7 +32,7 @@ seo:
       value: Platzi Game
     - name: 'twitter:description'
       value: >-
-        Este proyecto está hecho gracias al curso de Preprocesadores de Platzi
+        Este proyecto es parte de una colección que estoy realizando para demostrar mis conocimientos en preprocesadores, en este caso el sitio web fue creado utilizando el preprocesador Pug.
     - name: 'twitter:image'
       value: public/images/pug.png
       relativeUrl: true
