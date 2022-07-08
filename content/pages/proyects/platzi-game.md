@@ -41,11 +41,11 @@ layout: proyect
 
 ## Preprocesador Pug de HTML
 
-Este pequeño proyecto es uno de una colección que estoy realizando para demostrar mis conocimientos en preprocesadores. En este caso se trata del preprocesador Pug, así que me daré el lujo de solamente explicar por qué hice lo que hice al utilizar Pug, dejándo de lado HTML o CSS.
+Este post se trata del preprocesador Pug, así que me daré el lujo de solamente explicar por qué hice lo que hice al utilizar Pug, dejándo de lado HTML o CSS.
 
 ### ¿Qué es Pug?
 
-Como dije anteriormente es un preprocesador de HTML, es decir, ayuda a crear una página web de una manera más rápida y sencilla. Ya que permite reutilizar código, lo que facilita el mantenimiento de la página web y la velocidad en la que se crea el proyecto. Sin mencionar su sintaxis simple y que está basado en JavaScript.
+Es un preprocesador de HTML, es decir, ayuda a crear una página web de una manera más rápida y sencilla. Ya que permite reutilizar código, lo que facilita el mantenimiento de la página web y la velocidad en la que se crea el proyecto. Sin mencionar su sintaxis simple y que está basado en JavaScript.
 
 ### ¿Por qué una carpeta con componentes?
 

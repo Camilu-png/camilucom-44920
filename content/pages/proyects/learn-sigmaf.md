@@ -41,7 +41,20 @@ layout: proyect
 
 ## LearnSigmaF
 
-LearnSigmaF es una plataforma web donde se encuentran tutoriales y documentación de SigmaF, un lenguaje de programación open-source que se encuentra en desarrollo, que busca crear una comunidad de la cual soy partícipe.
+LearnSigmaF es una página web en la cual pueden encontrar la documentación de SigmaF. 
+
+### ¿Qué es SigmaF?
+
+SigmaF es un nuevo lenguaje de programación perteneciente al paradigma funcional y de código abierto, inspirado en lenguajes como Haskell, Python, JavaScript y Rust. Además es un lenguaje interpretado completamente construido con Python.
+
+### ¿Cuál es su función?
+
+Este lenguaje está diseñado para ser un lenguaje de programación funcional multipropósito, enfocado en poder escribir programas que sean fáciles de entender y de escribir. Utilizando una sintaxis similar a los lenguajes de programación pertenecientes al paradigma imperativo. De manera que sea un puente entre paradigma imperativo y funcional.
+
+### ¿Cuales son los primeros pasos?
+
+Para comenzar visita los links aquí abajo y descubre cómo funciona SigmaF. En su página web encontrarás la documentación y un tutorial de cómo usarlo. Además de que allí encontrarás un link al repositorio de SigmaF, para que puedas descargarlo y comenzar a codear por tu cuenta.
+El link al repositorio de GitHub de aquí abajo es sobre el código de la página web, no el código de SigmaF.
 
 ### Links
 
